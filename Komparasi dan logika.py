@@ -18,4 +18,4 @@ print("Angka yang anda masukkan: ", isCorrect)
 #-----------3++++++++++10-----------
 # kasus irisan
 
-inputUser = float(input("Masukkan angka yang bernilai"))
+inputUser = float(input("Masukkan angka yang bernilai bagus"))
